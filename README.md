@@ -1,4 +1,4 @@
-# Retail Analytics Cosulting Project #
+# Retail Analytics Consulting Project #
 
 Description
 
